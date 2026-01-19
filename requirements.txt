@@ -1,7 +1,5 @@
 Flask==2.3.3
-rembg==2.0.72
+rembg==2.0.50
 numpy==1.26.4
 Pillow>=12.1.0
-opencv-python-headless==4.9.0.80
-onnxruntime==1.17.1
 gunicorn==20.1.0
