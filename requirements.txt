@@ -1,4 +1,4 @@
 Flask==2.3.3
 rembg==2.0.72
-numpy==1.24.3
+numpy>=2.3.0          # veya numpy==2.3.0 ya da numpy==2.1.2 (en stabil olanı seç)
 gunicorn==20.1.0
