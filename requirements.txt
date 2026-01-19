@@ -1,4 +1,4 @@
 Flask==2.3.3
-rembg==2.0.72
-numpy>=2.3.0          # veya numpy==2.3.0 ya da numpy==2.1.2 (en stabil olanı seç)
+rembg==2.0.57     # veya 2.0.60 – NumPy 1.26 ile sorunsuz
+numpy==1.26.4     # 1.24.3 yerine bunu öneririm, daha az çakışma
 gunicorn==20.1.0
